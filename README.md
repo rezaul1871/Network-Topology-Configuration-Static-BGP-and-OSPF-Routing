@@ -30,5 +30,5 @@ Configure routing on the routers in three separate lab files using the same phys
 3. Neighbor relationships (OSPF/BGP) are established
 4. Traceroute shows correct paths
 
-![Image Alt]([image_url](https://github.com/rezaul1871/Network-Topology-Configuration-Static-BGP-and-OSPF-Routing/blob/adcdf728da841846947c7ef57522d51f0d6c5560/Topology.png))
+![Image Alt]([image_url](https://github.com/rezaul1871/Network-Topology-Configuration-Static-BGP-and-OSPF-Routing/blob/adcdf728da841846947c7ef57522d51f0d6c5560/Topology.png)
 
