@@ -8,9 +8,7 @@ Configure routing on the routers in three separate lab files using the same phys
 
 **Lab 2: Static Routing**
 1.Configure IP addresses on all interfaces
-
 2.Add static routes manually on both routers for all remote networks
-
 3. No dynamic routing protocols enabled
 
 **Lab 3: OSPF Routing**
